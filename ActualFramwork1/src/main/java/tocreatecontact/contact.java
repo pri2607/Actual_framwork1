@@ -6,6 +6,7 @@ public class contact {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Actual framwork");
+		System.out.println("Contact is created");
 
 	}
 
